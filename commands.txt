@@ -37,4 +37,4 @@ Repository -- like a folder/container that stores files/folders related to a pro
 * 	git log --oneline
 		- condensed version of the git log
 
-testing
+testing lang
